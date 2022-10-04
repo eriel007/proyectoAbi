@@ -1,0 +1,170 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#imagen{
+    margin-top: 60px;
+    width: 250px;
+    height: 70px;
+    margin-left: 60px;
+}
+img{
+    height:60px;
+}
+input{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: #f0f2f5;
+}
+button{
+    width: 254px;
+    height: 40px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+#nombre {
+    margin-top:10px;
+}
+#contrasenia{
+    margin-top:7px;
+}
+#botonSesion{
+    margin-top:7px;
+}
+#boton1{
+    background-color:#166fe5;;
+}
+#boton2{
+    background-color:#42b72a;
+}
+#olvidaste{
+    margin-left: 70px;
+    margin-top:20px;
+    text-align:left;
+}
+p{
+    color:#166fe5;
+}
+.bloque{
+    margin-left: 30px;
+}
+hr{
+    background-color:rgb(68, 67, 67);
+    width: 150px;
+    height:0.3px;
+    text-decoration: none;
+}
+#barra1{
+    margin-left:10px;
+}
+#p1{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#linea{
+    display:flex;
+    align-items:center;
+}
+#espanol{
+    height:80px;
+    width: 150px;
+}
+h5{
+    color:rgb(68, 67, 67);
+}
+#contenedor1{
+    text-align:center;
+    margin-top:50px;
+    display:flex;
+}
+#ingles{
+    text-align: center;
+    height:80px;
+    width: 150px;
+}
+@media screen and (max-width:480px){
+    #imagen{
+        margin-top: 60px;
+        width: 250px;
+        height: 70px;
+        margin-left: 60px;
+    }
+    img{
+        height:60px;
+    }
+    input{
+        width: 250px;
+        height: 35px;
+        border-radius: 5px;
+        background-color: #f0f2f5;
+    }
+    button{
+        width: 254px;
+        height: 40px;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 5px;
+    }
+    #nombre {
+        margin-top:10px;
+    }
+    #contrasenia{
+        margin-top:7px;
+    }
+    #botonSesion{
+        margin-top:7px;
+    }
+    #boton1{
+        background-color:#166fe5;;
+    }
+    #boton2{
+        background-color:#42b72a;
+    }
+    #olvidaste{
+        margin-left: 70px;
+        margin-top:20px;
+        text-align:left;
+    }
+    p{
+        color:#166fe5;
+    }
+    .bloque{
+        margin-left: 30px;
+    }
+    hr{
+        background-color:rgb(68, 67, 67);
+        width: 150px;
+        height:0.3px;
+        text-decoration: none;
+    }
+    #barra1{
+        margin-left:10px;
+    }
+    #p1{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #linea{
+        display:flex;
+        align-items:center;
+    }
+    #espanol{
+        height:80px;
+        width: 150px;
+    }
+    h5{
+        color:rgb(68, 67, 67);
+    }
+    #contenedor1{
+        text-align:center;
+        margin-top:50px;
+        display:flex;
+    }
+    #ingles{
+        text-align: center;
+        height:80px;
+        width: 150px;
+    }   
+}

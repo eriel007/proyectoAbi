@@ -1,2 +1,1 @@
-# eriel007
 # proyectoBriza
